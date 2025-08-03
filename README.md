@@ -117,6 +117,7 @@ Interactive dashboard includes:
 | `SQL operations.ipynb`           | SQL queries for business insights on cities, investors, years, and industries |
 | `Machine Learning.ipynb`         | Regression and classification models to predict or categorize funding       |
 | `cleanedDATA_Startup_funding.csv`| Final cleaned dataset ready for analysis and modeling                       |
+| `Startup_trends_analysis_dashboard.twbx`| Tableau dashboard and its visual                       |
 | `README.md`                      | Full project documentation and overview                                     |
 
 ---
