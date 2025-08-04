@@ -130,7 +130,7 @@ Interactive dashboard includes:
 - Hitesh Kumar  
 - Akul Khandelwal  
 - Amit Raj  
-- Tannu Ranna  
+- Tannu Rana  
 - Nisha  
 - Anjali  
 
