@@ -72,6 +72,8 @@ Performed on cleaned data:
 ---
 
 ### 📈 Section D: Tableau Dashboard
+**Source:** https://public.tableau.com/views/StartupTrendsAnalysis/StartupTrendsAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Interactive dashboard includes:
 - Filters (industry, city, year, funding type)
 - Time series of total funding
